@@ -1,0 +1,103 @@
+/* Navbar */
+
+.profil:hover {
+  background-color: #b9b9b9;
+  border-radius: 5px;
+}
+
+.keranjang:hover {
+  background-color: #b9b9b9;
+}
+
+.carousel-inner {
+  border-radius: 10px;
+}
+
+/* Banner-slide */
+
+.carousel-item img {
+  border-radius: 10px;
+}
+
+.banner-section-slide {
+  cursor: pointer;
+}
+
+/* Kategori */
+
+.box {
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.store .card {
+  cursor: pointer;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.center-image {
+  display: inline-block;
+}
+
+.center-image img {
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.item-button {
+  border: 2px solid black;
+  background-color: white;
+  cursor: pointer;
+  border-color: #e7e7e7;
+  border-radius: 10px;
+}
+
+.text-option {
+  cursor: pointer;
+}
+
+/* trend */
+.trend .card {
+  cursor: pointer;
+}
+/* banner */
+.banner-section img {
+  cursor: pointer;
+  border-radius: 35px;
+}
+
+/* for you */
+.foryou-section .bt-top .btn {
+  padding-right: 150px;
+  padding-bottom: 35px;
+  margin-bottom: 10px;
+}
+
+.foryou-section .bt-bot {
+  padding: 15px 75px;
+}
+
+/* footer */
+
+.footer p {
+  color: #a0a0a0;
+  cursor: pointer;
+}
+
+.footer p:hover {
+  color: #2fa803;
+}
+
+.footer .app {
+  cursor: pointer;
+}
+
+.fa-instagram {
+  color: #ff0088;
+}
